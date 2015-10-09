@@ -24,4 +24,5 @@ public class Uebung {
 			  System.out.println(WahrOderFalsch());
 	}
 	static boolean WahrOderFalsch()
-{return (4==4 && 5==5);}}
+{return (4==4 && 5==5);}
+	}
