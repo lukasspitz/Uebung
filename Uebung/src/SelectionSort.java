@@ -4,7 +4,7 @@ public class SelectionSort {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
      
-	int[] unsortiert ={ 4, 1, 8, -3, 5, 7, 58, 6, 5432, 6, 3, 987, 2};
+	int[] unsortiert ={ 4, 1, 8, -3, 5, 7, 58, 6 ,5432, 6, 3, 987, 2, 1, -4, 66, 1337, 3497, 1674,432,433,8,7,341,243,909,101,1011};
      int[] sortiert = selectionsort (unsortiert);
 	}
 
